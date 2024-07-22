@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T18:38:51.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MjCU1Q_J-vWJPJpft5mF" version="24.7.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-07-22T18:39:55.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nEMG18gRIRJaKYQ1o0NL" version="24.7.1" type="device">
   <diagram name="Pagina-1" id="Gw6nSf_3pTms6XGrTBZx">
     <mxGraphModel dx="1674" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
             <mxRectangle width="40" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lJPIg5WgTHCBEsO6ulFc-160" value="&lt;b&gt;type&lt;/b&gt;: varchar(50); Not Null" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="lJPIg5WgTHCBEsO6ulFc-158" vertex="1">
+        <mxCell id="lJPIg5WgTHCBEsO6ulFc-160" value="&lt;b&gt;extension&lt;/b&gt;: varchar(10); Not Null" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="lJPIg5WgTHCBEsO6ulFc-158" vertex="1">
           <mxGeometry x="40" width="260" height="40" as="geometry">
             <mxRectangle width="260" height="40" as="alternateBounds" />
           </mxGeometry>
