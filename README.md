@@ -1,4 +1,4 @@
-# BEPT - Milestone 3
+# BEPT#2 - Milestone 3
 ## Social platform
 #### Progettare il database per la piattaforma social, creando il diagramma ER e poi svolgendo le query fornite. 
 
